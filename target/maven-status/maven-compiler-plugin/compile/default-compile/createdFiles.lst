@@ -1,0 +1,10 @@
+org\alexside\controller\ControllerWS.class
+org\alexside\dao\BookDao.class
+org\alexside\bean\TestBean.class
+org\alexside\controller\ControllerUrl.class
+org\alexside\util\SomeUtils.class
+org\alexside\entity\Book.class
+org\alexside\entity\Author.class
+org\alexside\dao\BookDaoImpl.class
+org\alexside\service\BookService.class
+org\alexside\util\StringUtils.class
